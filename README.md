@@ -3,7 +3,7 @@
 
 - 🔭 Vous trouverez mon site internet ici: [Portfolio](https://github.com/Louis-Allard/louisallard)
 
-- 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS)**
+- 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS mais aussi PHP)**
 
 - 📝 J'écris régulièrement sur [https://www.louisallard.fr/#/blog](https://www.louisallard.fr/#/blog)
 
