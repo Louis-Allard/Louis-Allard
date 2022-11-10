@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour à tous 👋, je suis Louis</h1>
 <h3 align="center">Développeur web freelance</h3>
 
-- 🔭 Vous trouverez mon site internet ici: [Portfolio](https://github.com/Louis-Allard/louisallard)
+- 🔭 Vous trouverez mon site internet ici: [Portfolio](https://www.louisallard.fr)
 
 - 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS mais aussi PHP et Python)**
 
