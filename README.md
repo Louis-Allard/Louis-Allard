@@ -5,9 +5,9 @@
 
 - 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS mais aussi PHP et Python)**
 
-- 📝 J'écris régulièrement sur [https://www.louisallard.fr/#/blog](https://www.louisallard.fr/#/blog)
+- 📝 J'écris régulièrement sur mon blog [https://www.louisallard.fr/]
 
-- 📫 N'hésitez pas à me contacter à **contact@louisallard.fr**
+- 📫 N'hésitez pas à me contacter via **[https://www.louisallard.fr/]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
