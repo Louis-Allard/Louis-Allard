@@ -2,8 +2,8 @@
 <h3 align="center">Développeur web et formateur freelance</h3>
 
 - 🔭 Vous trouverez mon site internet ici: [Portfolio](https://www.louisallard.fr)
-
-- 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS mais aussi PHP et Python)**
+)
+- 🌱 Je travaille avec **JavaScript (ReactJS, VueJS, NodeJS) mais aussi PHP et Python)**
 
 - 📝 J'écris régulièrement sur mon blog [https://www.louisallard.fr/]
 
