@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour à tous 👋, je suis Louis</h1>
+<h1 align="center">Bonjour à tous 👋</h1>
 <h3 align="center">Développeur web et formateur freelance</h3>
 
 - 🔭 Vous trouverez mon site internet ici: [Portfolio](https://www.louisallard.fr)
